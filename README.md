@@ -58,50 +58,42 @@ generates sales dashboard from data stored in an xlsx
 -   매출 전망, SSO (Single Sales Opportunity), SSO당 매출
 
 ![A picture containing diagram Description automatically
-generated](media/image1.png){width="5.511811023622047in"
-height="3.293286307961505in"}
+generated](media/image1.png)
 
 ## 월별 누적 매출 전망
 
 ![Chart, bar chart Description automatically
-generated](media/image2.png){width="5.511811023622047in"
-height="3.2932852143482063in"}
+generated](media/image2.png)
 
 ## 솔루션 필드별 매출 전망
 
 ![Chart, bar chart Description automatically
-generated](media/image3.png){width="5.511811023622047in"
-height="3.2932852143482063in"}
+generated](media/image3.png)
 
 ## 솔루션별 매출 전망
 
 ![Chart, bar chart Description automatically
-generated](media/image4.png){width="5.511811023622047in"
-height="3.2932852143482063in"}
+generated](media/image4.png)
 
 ## 고객사별 매출 전망
 
 ![Chart, bar chart Description automatically
-generated](media/image5.png){width="5.511811023622047in"
-height="3.2932852143482063in"}
+generated](media/image5.png)
 
 ## 고객군별 매출 전망
 
 ![Chart, bar chart Description automatically
-generated](media/image6.png){width="5.511811023622047in"
-height="3.2932852143482063in"}
+generated](media/image6.png)
 
 ## 사업개발팀 Top 5 SSO
 
 ![Chart, funnel chart Description automatically
-generated](media/image7.png){width="5.511811023622047in"
-height="3.2932852143482063in"}
+generated](media/image7.png)
 
 ## 솔루션별 Top 3 SSO
 
 ![Chart, bar chart Description automatically
-generated](media/image8.png){width="5.511811023622047in"
-height="3.2932852143482063in"}
+generated](media/image8.png)
 
 ## Booking KPI
 
@@ -111,5 +103,4 @@ height="3.2932852143482063in"}
 -   booking은 수주가 당해 연도인 SSO의 매출이다. 실제 매출은 다음 연도나
     그 이후에 발생할 수도 있다.![A picture containing graphical user
     interface Description automatically
-    generated](media/image9.png){width="5.511811023622047in"
-    height="3.2932852143482063in"}
+    generated](media/image9.png)
