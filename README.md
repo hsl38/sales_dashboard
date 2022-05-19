@@ -103,5 +103,4 @@ generated](media/image8.png)
 -   booking은 수주가 당해 연도인 SSO의 매출이다. 실제 매출은 다음 연도나
     그 이후에 발생할 수도 있다.![A picture containing graphical user
     interface Description automatically
-    generated](media/image9.png){width="5.511811023622047in"
-    height="3.2932852143482063in"}
+    generated](media/image9.png)
